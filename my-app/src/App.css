@@ -12,10 +12,11 @@
   font-size: large; }
 
 .btn-cheezy {
-  background-color: orange;
-  color: white;
+  background: orange;
+  color: #FF5733;
   border: 1px solid darkorange;
-  margin: 1em; }
+  margin: 1em;
+  text-shadow: 0 0px 0; }
 
 .center {
   text-align: center;
@@ -67,3 +68,10 @@ body {
 
 .m-t-50px {
   margin-top: 50px; }
+
+.m-0-auto {
+  margin: 0 auto; }
+
+.show {
+  display: all;
+  border: 1px solid black; }
